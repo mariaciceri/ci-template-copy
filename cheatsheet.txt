@@ -2,3 +2,5 @@ Learning some commands.
 
 echo + text >> file.extension
 will create a new file with the name I gave after >> and the text before >> and after echo
+
+trying harder here!
